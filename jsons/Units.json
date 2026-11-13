@@ -11,6 +11,21 @@
         "upgradesTo": "Swordsman",
         "uniques": []
     },
+
+{
+    "name": "Kawal",
+    "unitType": "Melee",
+    "replaces": "Pikeman",
+    "uniqueTo": "Philippines",
+    "movement": 2,
+    "strength": 14,
+    "cost": 90,
+    "requiredTech": "Civil Service",
+    "upgradesTo": "Lancer",
+    "uniques": [
+        "[+50]% Strength <vs [Mounted] units>"
+    ]
+},
     {
         "name": "Katipunero",
         "unitType": "Gunpowder",
