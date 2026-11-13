@@ -1,4 +1,3 @@
-
 [
     {
         "name": "IRRI",
@@ -15,23 +14,23 @@
         "hurryCostModifier": 15,
         "requiredBuilding": "Library",
         "uniques": [
-            "[+2 Science] from [Farm] tiles [in this city]"
+            "[+1 Science] from [Farm] tiles [in this city]"
         ],
         "requiredTech": "Education"
     },
     {
         "name": "Galleon Trade",
-        "gold": 2,
-        "maintenance": 3,
-        "hurryCostModifier": 25,
+        "gold": 3,
+        "production": 1,
+        "percentStatBonus": {
+            "gold": 15
+        },
         "replaces": "Harbor",
         "uniqueTo": "Philippines",
-        "requiredTech": "Compass",
+        "maintenance": 2,
+        "requiredTech": "Navigation",
         "uniques": [
-            "[+1 Production] from [Water resource] tiles [in this city]",
-            "[+1 Gold] from [Water resource] tiles [in this city]",
-            "Connects trade routes over water",
-            "Must be next to [Coast]"
+            "[+1 Gold] from [Water] tiles"
         ]
     },
     {
@@ -63,9 +62,6 @@
         "maintenance": 2,
         "hurryCostModifier": 25,
         "requiredBuilding": "Monument",
-        "requiredTech": "Drama and Poetry",
-        "uniques": [
-            "Destroyed when the city is captured"
-        ]
+        "requiredTech": "Drama and Poetry"
     }
 ]
