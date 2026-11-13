@@ -1,4 +1,3 @@
-
 [
     {
         "name": "Philippines",
@@ -9,6 +8,7 @@
         "preferredVictoryType": "Scientific",
 
         "startIntroPart1": "Greetings, Supremo Andres Bonifacio. As founder of the Katipunan, you helped ignite the Philippine Revolution against Spanish colonial rule. Your determination inspired a movement for independence and national unity.",
+
         "startIntroPart2": "The Filipino people once again call upon a compassionate and determined leader. Unite the archipelago, strengthen its institutions, and build a nation capable of standing among the greatest civilizations. Will you lead through knowledge, commerce, and cooperation, or establish your legacy through conquest? The future of the Philippines rests in your hands.",
 
         "declaringWar": "Your ways have been revealed. Time to fight for what is ours!",
@@ -17,7 +17,7 @@
         "introduction": "Welcome to the Philippines. I am Supremo Andres Bonifacio.",
         "neutralHello": "Greetings.",
         "hateHello": "Hello! What do you want?",
-        "tradeRequest": "This offer won't be valid for a lot of time, think about it.",
+        "tradeRequest": "This offer won't be valid for long. Think about it.",
 
         "outerColor": [139, 0, 0],
         "innerColor": [255, 255, 255],
@@ -27,7 +27,7 @@
             "[+1 Production] from every [Farm]",
             "[+1 Food] from every [Farm] <starting from the [Classical era]>",
             "[+1 Gold] from every [Farm] <starting from the [Medieval era]>",
-            "[+1 Science] from every [Farm] <starting from the [Renaissance era]>"
+            "[+1 Science] from every [Farm] <starting from the [Industrial era]>"
         ],
 
         "cities": [
