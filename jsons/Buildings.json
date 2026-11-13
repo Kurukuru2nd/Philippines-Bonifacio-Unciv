@@ -34,5 +34,19 @@
         "uniques": [
             "[+1 Gold] from [Water] tiles"
         ]
+    },
+    {
+        "name": "Palengke",
+        "food": 1,
+        "gold": 2,
+        "happiness": 1,
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "replaces": "Market",
+        "uniqueTo": "Philippines",
+        "maintenance": 0,
+        "hurryCostModifier": 25,
+        "requiredTech": "Currency"
     }
 ]
