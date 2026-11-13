@@ -28,10 +28,7 @@
         "replaces": "Harbor",
         "uniqueTo": "Philippines",
         "maintenance": 2,
-        "requiredTech": "Navigation",
-        "uniques": [
-            "[+1 Gold] from [Water] tiles"
-        ]
+        "requiredTech": "Navigation"
     },
     {
         "name": "Palengke",
