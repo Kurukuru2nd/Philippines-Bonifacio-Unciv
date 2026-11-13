@@ -11,21 +11,36 @@
         "upgradesTo": "Swordsman",
         "uniques": []
     },
-
-{
-    "name": "Kawal",
-    "unitType": "Melee",
-    "replaces": "Pikeman",
-    "uniqueTo": "Philippines",
-    "movement": 2,
-    "strength": 14,
-    "cost": 90,
-    "requiredTech": "Civil Service",
-    "upgradesTo": "Lancer",
-    "uniques": [
-        "[+50]% Strength <vs [Mounted] units>"
-    ]
-},
+    {
+        "name": "Karakoa",
+        "unitType": "Melee Water",
+        "replaces": "Trireme",
+        "uniqueTo": "Philippines",
+        "movement": 5,
+        "strength": 10,
+        "cost": 50,
+        "requiredTech": "Sailing",
+        "obsoleteTech": "Astronomy",
+        "upgradesTo": "Caravel",
+        "uniques": [
+            "Cannot enter ocean tiles"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Kawal",
+        "unitType": "Melee",
+        "replaces": "Pikeman",
+        "uniqueTo": "Philippines",
+        "movement": 2,
+        "strength": 14,
+        "cost": 90,
+        "requiredTech": "Civil Service",
+        "upgradesTo": "Lancer",
+        "uniques": [
+            "[+50]% Strength <vs [Mounted] units>"
+        ]
+    },
     {
         "name": "Katipunero",
         "unitType": "Gunpowder",
