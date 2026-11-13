@@ -1,18 +1,14 @@
-
 [
     {
         "name": "Mandirigma",
-        "unitType": "Sword",
+        "unitType": "Melee",
         "replaces": "Warrior",
         "uniqueTo": "Philippines",
         "movement": 2,
         "strength": 9,
         "cost": 40,
-        "requiredTech": "Agriculture",
-        "obsoleteTech": "Metal Casting",
         "upgradesTo": "Swordsman",
-        "uniques": [],
-        "attackSound": "nonmetalhit"
+        "uniques": []
     },
     {
         "name": "Karakoa",
@@ -32,19 +28,17 @@
     },
     {
         "name": "Kawal",
-        "unitType": "Sword",
+        "unitType": "Melee",
         "replaces": "Pikeman",
         "uniqueTo": "Philippines",
         "movement": 2,
         "strength": 16,
         "cost": 90,
         "requiredTech": "Civil Service",
-        "obsoleteTech": "Metallurgy",
         "upgradesTo": "Lancer",
         "uniques": [
             "[+50]% Strength <vs [Mounted] units>"
-        ],
-        "attackSound": "metalhit"
+        ]
     },
     {
         "name": "Katipunero",
@@ -65,14 +59,13 @@
     },
     {
         "name": "Hukbalahap",
-        "unitType": "Gunpowder",
+        "unitType": "Melee",
         "replaces": "Infantry",
         "uniqueTo": "Philippines",
         "movement": 2,
         "strength": 70,
         "cost": 400,
-        "requiredTech": "Plastics",
-        "obsoleteTech": "Mobile Tactics",
+        "requiredTech": "Replaceable Parts",
         "upgradesTo": "Mechanized Infantry",
         "promotions": [
             "Woodsman"
