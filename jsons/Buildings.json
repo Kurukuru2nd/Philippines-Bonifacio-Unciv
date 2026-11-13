@@ -48,5 +48,19 @@
         "maintenance": 0,
         "hurryCostModifier": 25,
         "requiredTech": "Currency"
+    },
+    {
+        "name": "Bahay na Bato",
+        "replaces": "Amphitheater",
+        "uniqueTo": "Philippines",
+        "culture": 3,
+        "happiness": 1,
+        "specialistSlots": {
+            "Artist": 1
+        },
+        "maintenance": 2,
+        "hurryCostModifier": 25,
+        "requiredBuilding": "Monument",
+        "requiredTech": "Drama and Poetry"
     }
 ]
