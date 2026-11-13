@@ -37,9 +37,7 @@
         "cost": 90,
         "requiredTech": "Civil Service",
         "upgradesTo": "Lancer",
-        "uniques": [
-            "[+50]% Strength <vs [Mounted] units>"
-        ]
+        "uniques": []
     },
     {
         "name": "Katipunero",
@@ -53,7 +51,25 @@
         "obsoleteTech": "Replaceable Parts",
         "upgradesTo": "Great War Infantry",
         "uniques": [],
-        "promotions": ["Woodsman"],
+        "promotions": [
+            "Woodsman"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Hukbalahap",
+        "unitType": "Melee",
+        "replaces": "Infantry",
+        "uniqueTo": "Philippines",
+        "movement": 2,
+        "strength": 70,
+        "cost": 300,
+        "requiredTech": "Replaceable Parts",
+        "upgradesTo": "Mechanized Infantry",
+        "promotions": [
+            "Woodsman"
+        ],
+        "uniques": [],
         "attackSound": "shot"
     }
 ]
