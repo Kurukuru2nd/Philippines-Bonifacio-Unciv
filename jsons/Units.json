@@ -24,8 +24,7 @@
         "upgradesTo": "Caravel",
         "uniques": [
             "Cannot enter ocean tiles",
-            "[+25]% Strength <vs [Melee Water] units>",
-            "[+15]% Strength when attacking cities"
+            "[+25]% Strength <vs [Melee Water] units>"
         ],
         "attackSound": "nonmetalhit"
     },
