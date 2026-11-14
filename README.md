@@ -1,19 +1,13 @@
-🇵🇭 Philippines Civilization – Unciv
+🇵🇭 Philippines – Unciv
 
-A Philippines civilization mod for Unciv, celebrating Filipino history, culture, and national identity through unique leaders, military units, and historical institutions.
+A Filipino civilization mod for Unciv, featuring José Rizal as the nation's leader and Andrés Bonifacio as its Great General.
 
 Features
 
-- Filipino Leaders: Andrés Bonifacio and José Rizal.
-- Unique Units: Mandirigma, Karakoa, and Kampilan.
-- Unique Building: International Rice Research Institute (IRRI).
-- Unique Civilization Bonuses: Inspired by Philippine agriculture, innovation, and history.
-- Custom Artwork: Dedicated leader and civilization graphics.
+- Leader: José Rizal
+- Great General: Andrés Bonifacio
+- Unique Building: International Rice Research Institute (IRRI)
+- Unique Units: Mandirigma, Karakoa, and Kampilan
+- Civilization Focus: Science, agriculture, and military development.
 
-Gameplay
-
-The Philippines is designed around scientific development, agricultural productivity, and military flexibility, offering a distinctive civilization experience.
-
-Credits
-
-See "Credits.txt" for acknowledgments and asset credits.
+The mod aims to represent Philippine history, culture, and national identity while offering a distinctive and competitive gameplay experience.
