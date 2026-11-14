@@ -63,7 +63,17 @@
         "uniqueTo": "Philippines",
         "maintenance": 2,
         "hurryCostModifier": 25,
-        "requiredBuilding": "Monument",
+        "requiredBuilding": "Barangay",
         "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "Barangay",
+        "culture": 5,
+        "food": 1,
+        "production": 1,
+        "happiness": 1,
+        "replaces": "Monument",
+        "uniqueTo": "Philippines",
+        "maintenance": 0
     }
 ]
