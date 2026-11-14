@@ -86,7 +86,7 @@ UnitIcons/Hukbalahap
 
 UnitIcons/Karakoa_Boat
   rotate: false
-  xy: 664, 268
+  xy: 620, 216
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -94,7 +94,7 @@ UnitIcons/Karakoa_Boat
 
 UnitIcons/Kampilan_Shield
   rotate: false
-  xy: 592, 270
+  xy: 520, 216
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -102,16 +102,16 @@ UnitIcons/Kampilan_Shield
 
 LeaderIcons/Andres Bonifacio
   rotate: false
-  xy: 904, 192
-  size: 100, 100
-  orig: 100, 100
+  xy: 840, 116
+  size: 136, 136
+  orig: 136, 136
   offset: 0, 0
   index: -1
 
 LeaderIcons/Jose Rizal
   rotate: false
-  xy: 138, 340
-  size: 100, 100
-  orig: 100, 100
+  xy: 0, 216
+  size: 260, 260
+  orig: 260, 260
   offset: 0, 0
   index: -1
