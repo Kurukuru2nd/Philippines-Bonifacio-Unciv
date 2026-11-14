@@ -2,28 +2,28 @@
 [
     {
         "name": "Philippines",
-        "leaderName": "Andres Bonifacio",
+        "leaderName": "José Rizal",
         "adjective": ["Filipino"],
         "favoredReligion": "Christianity",
         "startBias": ["Coast"],
         "preferredVictoryType": "Scientific",
 
-        "startIntroPart1": "Greetings, Supremo Andres Bonifacio. As founder of the Katipunan, you helped ignite the Philippine Revolution against Spanish colonial rule. Your determination inspired a movement for independence and national unity.",
+        "startIntroPart1": "Greetings, José Rizal. You awakened the Filipino people's consciousness through your writings, courage, and unwavering love for your homeland. Your ideas helped inspire a nation that would one day seek its freedom.",
 
-        "startIntroPart2": "The Filipino people once again call upon a compassionate and determined leader. Unite the archipelago, strengthen its institutions, and build a nation capable of standing among the greatest civilizations. Will you lead through knowledge, commerce, and cooperation, or establish your legacy through conquest? The future of the Philippines rests in your hands.",
+        "startIntroPart2": "The Filipino people look toward you once more. Unite the archipelago, cultivate knowledge, strengthen the nation's institutions, and establish a country capable of standing among the world's great civilizations. Through education, scientific progress, commerce, and national unity, your vision of a prosperous Philippines may finally become reality. Will you guide your people toward greatness?",
 
-        "declaringWar": "Your ways have been revealed. Time to fight for what is ours!",
-        "attacked": "This insolence will cost you dearly!",
-        "defeated": "The Filipino people are worth fighting for!",
-        "introduction": "Welcome to the Philippines. I am Supremo Andres Bonifacio.",
-        "neutralHello": "Greetings.",
-        "hateHello": "Hello! What do you want?",
-        "tradeRequest": "This offer won't be valid for long. Think about it.",
+        "declaringWar": "Our nation will not surrender its dignity. We shall defend our homeland!",
+        "attacked": "You mistake our peaceful intentions for weakness. We shall stand firm!",
+        "defeated": "A nation may fall, but the ideals of its people shall endure.",
+        "introduction": "Welcome to the Philippine Nation. I am José Rizal.",
+        "neutralHello": "Greetings. May knowledge and understanding guide our dealings.",
+        "hateHello": "Your intentions toward our nation are becoming increasingly clear.",
+        "tradeRequest": "Let us consider an agreement that benefits both our peoples.",
 
         "outerColor": [139, 0, 0],
         "innerColor": [255, 255, 255],
 
-        "uniqueName": "Sovereign Tagalog Nation",
+        "uniqueName": "The Philippine Nation",
 
         "uniques": [
             "[+1 Production] from every [Farm]",
@@ -44,7 +44,9 @@
 
             "[+10]% Strength <when defending>",
 
-            "Gifts of Gold to City-States generate [+15]% more Influence"
+            "Gifts of Gold to City-States generate [+15]% more Influence",
+
+            "[+15]% [Culture] [in all cities]"
         ],
 
         "cities": [
