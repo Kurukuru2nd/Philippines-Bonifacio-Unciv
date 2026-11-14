@@ -12,14 +12,6 @@ BuildingIcons/IRRI
   offset: 0, 0
   index: -1
 
-LeaderIcons/Andres Bonifacio
-  rotate: false
-  xy: 4, 220
-  size: 250, 250
-  orig: 250, 250
-  offset: 0, 0
-  index: -1
-
 NationIcons/Philippines
   rotate: false
   xy: 4, 4
@@ -76,14 +68,6 @@ UnitIcons/Mandirigma
   offset: 0, 0
   index: -1
 
-UnitIcons/Karakoa
-  rotate: false
-  xy: 520, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-
 UnitIcons/Kawal
   rotate: false
   xy: 628, 112
@@ -102,16 +86,32 @@ UnitIcons/Hukbalahap
 
 UnitIcons/Karakoa_Boat
   rotate: false
-  xy: 1000, 1000
-  size: 128, 128
-  orig: 128, 128
+  xy: 664, 268
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 
 UnitIcons/Kampilan_Shield
   rotate: false
-  xy: 1000, 900
-  size: 128, 128
-  orig: 128, 128
+  xy: 592, 270
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+LeaderIcons/Andres Bonifacio
+  rotate: false
+  xy: 904, 192
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+LeaderIcons/Jose Rizal
+  rotate: false
+  xy: 138, 340
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
