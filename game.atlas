@@ -11,7 +11,6 @@ BuildingIcons/IRRI
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 NationIcons/Philippines
   rotate: false
   xy: 4, 4
@@ -19,7 +18,6 @@ NationIcons/Philippines
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 TileSets/FantasyHex/Katipunero
   rotate: false
   xy: 112, 180
@@ -27,7 +25,6 @@ TileSets/FantasyHex/Katipunero
   orig: 32, 32
   offset: 0, 0
   index: -1
-
 UnitIcons/Katipunero
   rotate: false
   xy: 262, 370
@@ -35,7 +32,6 @@ UnitIcons/Katipunero
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 BuildingIcons/Galleon Trade
   rotate: false
   xy: 520, 4
@@ -43,7 +39,6 @@ BuildingIcons/Galleon Trade
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 BuildingIcons/Palengke
   rotate: false
   xy: 628, 4
@@ -51,7 +46,6 @@ BuildingIcons/Palengke
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 BuildingIcons/Bahay na Bato
   rotate: false
   xy: 736, 4
@@ -59,7 +53,6 @@ BuildingIcons/Bahay na Bato
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Mandirigma
   rotate: false
   xy: 844, 4
@@ -67,7 +60,6 @@ UnitIcons/Mandirigma
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Kawal
   rotate: false
   xy: 628, 112
@@ -75,7 +67,6 @@ UnitIcons/Kawal
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Hukbalahap
   rotate: false
   xy: 736, 112
@@ -83,7 +74,6 @@ UnitIcons/Hukbalahap
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Karakoa_Boat
   rotate: false
   xy: 620, 216
@@ -91,7 +81,6 @@ UnitIcons/Karakoa_Boat
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Kampilan_Shield
   rotate: false
   xy: 520, 216
@@ -99,7 +88,6 @@ UnitIcons/Kampilan_Shield
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 LeaderIcons/Andres Bonifacio
   rotate: false
   xy: 840, 116
@@ -107,7 +95,6 @@ LeaderIcons/Andres Bonifacio
   orig: 136, 136
   offset: 0, 0
   index: -1
-
 LeaderIcons/Jose Rizal
   rotate: false
   xy: 0, 216
