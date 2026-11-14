@@ -74,6 +74,7 @@
         "happiness": 1,
         "replaces": "Monument",
         "uniqueTo": "Philippines",
-        "maintenance": 0
+        "maintenance": 0,
+        "cost": 40
     }
 ]
