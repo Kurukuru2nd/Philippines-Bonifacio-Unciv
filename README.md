@@ -11,3 +11,6 @@ Features
 - Civilization Focus: Science, agriculture, and military development.
 
 The mod aims to represent Philippine history, culture, and national identity while offering a distinctive and competitive gameplay experience.
+
+Credits
+See Credits.txt for acknowledgments and asset credits.
