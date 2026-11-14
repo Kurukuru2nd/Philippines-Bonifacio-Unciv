@@ -1,3 +1,4 @@
+
 [
     {
         "name": "Philippines",
@@ -27,7 +28,8 @@
             "[+1 Production] from every [Farm]",
             "[+1 Food] from every [Farm] <starting from the [Classical era]>",
             "[+1 Gold] from every [Farm] <starting from the [Medieval era]>",
-            "[+1 Science] from every [Farm] <starting from the [Industrial era]>"
+            "[+1 Science] from every [Farm] <starting from the [Renaissance era]>",
+            "[+1 Gold] from every [Fishing Boat]"
         ],
 
         "cities": [
