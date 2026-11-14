@@ -31,7 +31,7 @@
         "maintenance": 2,
         "requiredTech": "Navigation",
         "uniques": [
-            "[+1 Gold] from every [Fishing Boats]",
+            "[+1 Gold] from [Water resource] tiles [in this city]",
             "[+15]% Production when constructing [Water] units [in this city]"
         ]
     },
