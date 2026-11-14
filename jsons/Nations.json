@@ -24,12 +24,23 @@
         "innerColor": [255, 255, 255],
 
         "uniqueName": "Sovereign Tagalog Nation",
+
         "uniques": [
             "[+1 Production] from every [Farm]",
             "[+1 Food] from every [Farm] <starting from the [Classical era]>",
             "[+1 Gold] from every [Farm] <starting from the [Medieval era]>",
-            "[+1 Science] from every [Farm] <starting from the [Renaissance era]>",
-            "[+1 Gold] from every [Fishing Boat]"
+            "[+1 Science] from every [Farm] <starting from the [Medieval era]>",
+
+            "[+1 Gold] from every [Fishing Boats]",
+            "[+1 Food] from every [Fishing Boats]",
+
+            "[+10]% Production when constructing [All] buildings [in all cities]",
+
+            "[+15]% [Gold] from Trade Routes",
+
+            "[+10]% [Science] [in all cities]",
+
+            "[+1 Production] from every [Workshop]"
         ],
 
         "cities": [
