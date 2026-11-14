@@ -1,33 +1,19 @@
-# ph-bonifacio-unciv
+🇵🇭 Philippines Civilization – Unciv
 
-## Philippines Mod for Unciv 
+A Philippines civilization mod for Unciv, celebrating Filipino history, culture, and national identity through unique leaders, military units, and historical institutions.
 
-A mod featuring the Philippines with the Leader Andres Bonifacio
+Features
 
-Leader: Andres Bonifacio 
+- Filipino Leaders: Andrés Bonifacio and José Rizal.
+- Unique Units: Mandirigma, Karakoa, and Kampilan.
+- Unique Building: International Rice Research Institute (IRRI).
+- Unique Civilization Bonuses: Inspired by Philippine agriculture, innovation, and history.
+- Custom Artwork: Dedicated leader and civilization graphics.
 
-Title: Supreme Leader of the Katipunan
+Gameplay
 
-#### Unique Bonus: Sovereign Tagalog Nation
+The Philippines is designed around scientific development, agricultural productivity, and military flexibility, offering a distinctive civilization experience.
 
-+1 Production from Farm
+Credits
 
-#### Unique Building: IRRI (International Rice Research Institute)
-
-Unlocked on Education. Replaces University.
-+10% food,+25% Science, and +2 Science from Farm tiles.
-
-#### Unique Unit: Katipunero
-
-Replaces Rifleman. Woodsman promotion, production cost of 180 (regular rifleman cost is 225), while base combat strength reduced to 28 from 34.
-
-## Suggestions? Bugs?
-
-Feel free to add issues in the repository. Note that it might take me a week or two to solve them.
-
-## Credits  
-
-All credits are written at credits.txt
-
-
-
+See "Credits.txt" for acknowledgments and asset credits.
