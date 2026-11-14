@@ -3,12 +3,18 @@ size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 BuildingIcons/IRRI
   rotate: false
   xy: 4, 112
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Andres Bonifacio
+  rotate: false
+  xy: 4, 220
+  size: 250, 250
+  orig: 250, 250
   offset: 0, 0
   index: -1
 NationIcons/Philippines
@@ -60,6 +66,13 @@ UnitIcons/Mandirigma
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Karakoa
+  rotate: false
+  xy: 520, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Kawal
   rotate: false
   xy: 628, 112
@@ -72,33 +85,5 @@ UnitIcons/Hukbalahap
   xy: 736, 112
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Karakoa_Boat
-  rotate: false
-  xy: 620, 216
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kampilan_Shield
-  rotate: false
-  xy: 520, 216
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-LeaderIcons/Andres Bonifacio
-  rotate: false
-  xy: 840, 116
-  size: 136, 136
-  orig: 136, 136
-  offset: 0, 0
-  index: -1
-LeaderIcons/Jose Rizal
-  rotate: false
-  xy: 0, 216
-  size: 260, 260
-  orig: 260, 260
   offset: 0, 0
   index: -1
